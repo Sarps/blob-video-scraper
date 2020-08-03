@@ -6,9 +6,6 @@ Scrape complex blob videos
 
 * [ffmpeg](https://www.ffmpeg.org/) (concatenate)
 * [chrome driver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
-* [edge driver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
-* [firefox driver](https://github.com/mozilla/geckodriver/releases)
-* [safari driver](https://webkit.org/blog/6900/webdriver-support-in-safari-10/)
 * pip install -r requirements.txt
 
 ## Setup
