@@ -1,0 +1,6 @@
+requests
+gevent
+m3u8
+selenium
+seleniumwire
+python-dotenv
